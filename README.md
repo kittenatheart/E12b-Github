@@ -1,5 +1,7 @@
 # E12b-Github
 
+*Complete*
+
 This repository contains a very simple Godot project, but the exercise centers on tools (available to you through Github) for collaborating with others on a project like this one. 
 
 First, you will need to review [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/). This will provide a basic overview of the process of branching, merging, and pull requests.
